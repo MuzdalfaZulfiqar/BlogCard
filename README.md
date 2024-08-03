@@ -1,6 +1,6 @@
 # Blog Card
 
-Thisfrontend project demonstrates a simple `blog-card` component designed to practice Flexbox layout techniques. 
+This frontend project demonstrates a simple `blog-card` component designed to practice Flexbox layout techniques. 
 -The card is styled with Flexbox used to arrange and style the elements.
 -This is fully responsive, ensuring it displays well on various screen sizes.
 
@@ -12,7 +12,8 @@ Thisfrontend project demonstrates a simple `blog-card` component designed to pra
 ![image](https://github.com/user-attachments/assets/13a7fe80-b525-44e0-bb1b-6298e6457653)
 
 ### View 3
-![image](https://github.com/user-attachments/assets/ea478b60-294b-4578-99d4-72426bcf6e5d)
+![image](https://github.com/user-attachments/assets/9972b780-d9af-4842-a386-aed2f624e279)
+
 
 
 
