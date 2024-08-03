@@ -5,6 +5,9 @@ This frontend project demonstrates a simple `blog-card` component designed to pr
 -This is fully responsive, ensuring it displays well on various screen sizes.
 
 ## Preview
+
+https://blog-card-ten-psi.vercel.app/
+
 ### View 1
 ![image](https://github.com/user-attachments/assets/399a9022-2c03-415a-8db2-7614ef218085)
 
